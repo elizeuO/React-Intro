@@ -1,0 +1,39 @@
+{
+    "products": [
+      {
+        "name": "capa de chuva",
+        "price": "50.50",
+        "id": "5"
+      },
+      {
+        "name": "teclado",
+        "price": "110",
+        "id": "6"
+      },
+      {
+        "name": "cadeira",
+        "price": "200",
+        "id": "7"
+      },
+      {
+        "id": "a173",
+        "name": "mouse",
+        "price": "4"
+      },
+      {
+        "id": "2e81",
+        "name": "luva ",
+        "price": "5"
+      },
+      {
+        "id": "a7f2",
+        "name": "esmalte",
+        "price": "50"
+      },
+      {
+        "id": "e0bf",
+        "name": "acetona",
+        "price": "20"
+      }
+    ]
+  }
